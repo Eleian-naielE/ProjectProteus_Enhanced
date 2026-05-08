@@ -1,7 +1,7 @@
 return {
 	Era_1 = {
 		{
-			{"Imperial_Navy_Trooper_Company", 5},
+			{"Imperial_Army_Guard_Company", 5},
 			{"Imperial_Stormtrooper_Company", 5},
 			{"Tartan_Patrol_Cruiser", 5},
 			{"Interceptor_III_Frigate", 5},
@@ -11,7 +11,7 @@ return {
 		{
 			{"Compforce_Assault_Company", 5},
 			{"Army_Special_Missions_Company", 5},
-			{"TIE_Mauler_Company", 4},
+			{"Imperial_TX130T_Company", 4},
 			{"Broadside_Cruiser", 3},
 			{"2M_Repulsor_Tank_Company", 3},
 			{"Aratech_Battle_Platform_Company", 2},
@@ -21,8 +21,8 @@ return {
 			{"AT_AI_Walker_Company", 3},
 			{"Lancet_Air_Artillery_Company", 2},
 			{"B5_Juggernaut_Company", 2},
-			{"Venator_Star_Destroyer", 2},
-			{"Tector_Star_Destroyer", 1},
+			{"Venator_8X", 2},
+			{"Imperial_II_Star_Destroyer", 1},
 		}
 	},
 	Era_2 = {

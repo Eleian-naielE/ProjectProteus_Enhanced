@@ -48,7 +48,9 @@ return {
 				"PX4_Company", "B5_Juggernaut_Company", "Imperial_AT_AT_Walker_Company",
 			},
 			IntroText = "TEXT_CONQUEST_LAMBDASECTOR_LAMBDA_INTRO_ONE",
-			IntroHolo = "Par_Lankin_Loop"
+			IntroHolo = "Par_Lankin_Loop",
+			--CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["ZERO_COMMAND"] = {
 			FriendlyName = "Zero Command",
@@ -472,7 +474,9 @@ return {
 			LastYear = 6,
 			FactionOverride = "Empire",
 			IntroText = "TEXT_CONQUEST_PROTEUS_PROPHETS",
-			IntroHolo = "Kadann_Loop"
+			IntroHolo = "Kadann_Loop",
+			CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["TAGGE"] = {
 			FriendlyName = "House of Tagge",
@@ -498,7 +502,9 @@ return {
 			FactionOverride2 = "Zsinj_Empire",
 			FactionOverride3 = "Greater_Maldrood",
 			IntroText = "TEXT_CONQUEST_PROTEUS_TAGGE",
-			IntroHolo = "Imperial_Naval_Officer_Loop"
+			IntroHolo = "Imperial_Naval_Officer_Loop",
+			CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["TIERFON"] = {
 			FriendlyName = "Tierfon Sector",
@@ -549,7 +555,9 @@ return {
 			LockList = {"Namana_Cruiser_Influence","Bakura_Destroyer_Influence"},
 			LastYear = 4,
 			IntroText = "TEXT_CONQUEST_PROTEUS_BAKURA",
-			IntroHolo = "Imperial_Naval_Officer_Loop"
+			IntroHolo = "Imperial_Naval_Officer_Loop",
+			CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["BRAK"] = {
 			FriendlyName = "Brak Sector",
@@ -741,7 +749,9 @@ return {
 			FactionOverride = "Empire",
 			LastYear = 4,
 			IntroText = "TEXT_CONQUEST_PROTEUS_KASHYYYK",
-			IntroHolo = "Darcc_Loop"
+			IntroHolo = "Darcc_Loop",
+			--CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["LUMIYA"] = {
 			FriendlyName = "Lumiya's Sith",
@@ -886,8 +896,10 @@ return {
 				-- Research
 				"Z_Research_MB", "Z_Research_Corona", "Z_Research_Gorath", "Z_Research_AF2", "Z_Research_MTC", "Z_Research_Scimitar",
 			},
-				IntroText = "TEXT_CONQUEST_PROTEUS_ZAARIN_REMNANTS",
-			IntroHolo = "Raveen_Loop"
+			IntroText = "TEXT_CONQUEST_PROTEUS_ZAARIN_REMNANTS",
+			IntroHolo = "Raveen_Loop",
+			CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["RAYTER"] = {
 			FriendlyName = "Rayter Sector",
@@ -980,7 +992,9 @@ return {
 			},
 			FactionOverride = "Empire",
 			IntroText = "TEXT_CONQUEST_PROTEUS_CATO_NEIMOIDIA",
-			IntroHolo = "Imperial_Naval_Officer_Loop"
+			IntroHolo = "Imperial_Naval_Officer_Loop",
+			--CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["KUAT"] = {
 			FriendlyName = "Kuat Sector",
@@ -1032,6 +1046,8 @@ return {
 			IntroText = "TEXT_CONQUEST_PROTEUS_KAARENTH_DISSENSION",
 			IntroHolo = "Ennix_Devian_Loop",
 			PlanetParticle = "Kaarenth_Allies",
+			--CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["RESTORED_EMPIRE"] = {
 			FriendlyName = "Restored Empire",
@@ -1055,6 +1071,8 @@ return {
 			IntroText = {"TEXT_CONQUEST_PROTEUS_RESTORED_EMPIRE", [12] = "TEXT_CONQUEST_PROTEUS_RESTORED_EMPIRE_E7"},
 			IntroHolo = "Ennix_Devian_Loop",
 			PlanetParticle = "Restored_Allies",
+			CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["PRAJI"] = {
 			FriendlyName = "Imperial Kaikielius",

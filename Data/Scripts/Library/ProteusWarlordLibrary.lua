@@ -144,7 +144,9 @@ return {
 				"CEC_HQ", "TaggeCo_HQ",
 			},
 			IntroText = "TEXT_CONQUEST_PROTEUS_WILD_SPACE",
-			IntroHolo = "Delurin_Loop"
+			IntroHolo = "Delurin_Loop",
+			CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["PRENTIOCH"] = {
 			FriendlyName = "Prentioch's Dominion",

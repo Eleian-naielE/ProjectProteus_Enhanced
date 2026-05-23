@@ -335,7 +335,9 @@ return {
 			LockList = {"GormTalquist_HQ"},
 			FactionOverride = "Empire",
 			IntroText = "TEXT_CONQUEST_LAMBDASECTOR_NABOO_INTRO_ONE",
-			IntroHolo = "Quarsh_Panaka_Loop"
+			IntroHolo = "Quarsh_Panaka_Loop",
+			CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["RADAMA"] = {
 			FriendlyName = "Imperial Ord Radama",

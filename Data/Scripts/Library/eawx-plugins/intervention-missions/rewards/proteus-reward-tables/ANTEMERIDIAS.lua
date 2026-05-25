@@ -19,7 +19,7 @@ return {
 		{
 			{"XR85_Company", 2},
 			{"Imperial_ULAV_Company", 3},
-			{"SPMAT_Company", 2},
+			{"MAS_2xB_Company", 1},
 			{"1H_Tank_Company", 2},
 			{"Victory_II_Carrier", 2},
 			{"Invincible_Cruiser", 1},
@@ -45,7 +45,7 @@ return {
 		{
 			{"XR85_Company", 2},
 			{"Imperial_ULAV_Company", 3},
-			{"SPMAT_Company", 2},
+			{"MAS_2xB_Company", 1},
 			{"1H_Tank_Company", 2},
 			{"Victory_II_Carrier", 2},
 			{"Invincible_Cruiser", 1},
@@ -71,12 +71,13 @@ return {
 		{
 			{"XR85_Company", 2},
 			{"Imperial_ULAV_Company", 3},
-			{"SPMAT_Company", 2},
+			{"MAS_2xB_Company", 1},
 			{"1H_Tank_Company", 2},
 			{"Victory_II_Carrier", 2},
 			{"Invincible_Cruiser", 1},
 		}
 	},
+	-- Project Proteus Enhanced ; Era 4 - 6 SPMA-T -> with MAS 2xB
 	Era_4 = {
 		{
 			{"Imperial_Navy_Trooper_Company", 5},
@@ -102,7 +103,7 @@ return {
 			{"Victory_II_Carrier", 2},
 			{"Invincible_Cruiser", 1},
 		}
-	},
+	}, 
 	Era_5 = {
 		{
 			{"Imperial_Navy_Trooper_Company", 5},
@@ -175,7 +176,7 @@ return {
 		{
 			{"XR85_Company", 2},
 			{"Imperial_ULAV_Company", 3},
-			{"SPMAT_Company", 2},
+			{"MAS_2xB_Company", 1},
 			{"1H_Tank_Company", 2},
 			{"Victory_II_Carrier", 2},
 			{"Invincible_Cruiser", 1},
@@ -201,7 +202,7 @@ return {
 		{
 			{"XR85_Company", 2},
 			{"Imperial_ULAV_Company", 3},
-			{"SPMAT_Company", 2},
+			{"MAS_2xB_Company", 1},
 			{"1H_Tank_Company", 2},
 			{"Victory_II_Carrier", 2},
 			{"Invincible_Cruiser", 1},
@@ -227,7 +228,7 @@ return {
 		{
 			{"XR85_Company", 2},
 			{"Imperial_ULAV_Company", 3},
-			{"SPMAT_Company", 2},
+			{"MAS_2xB_Company", 1},
 			{"1H_Tank_Company", 2},
 			{"Victory_II_Carrier", 2},
 			{"Invincible_Cruiser", 1},
@@ -253,7 +254,7 @@ return {
 		{
 			{"XR85_Company", 2},
 			{"Imperial_ULAV_Company", 3},
-			{"SPMAT_Company", 2},
+			{"MAS_2xB_Company", 1},
 			{"1H_Tank_Company", 2},
 			{"Victory_II_Carrier", 2},
 			{"Invincible_Cruiser", 1},
@@ -279,7 +280,7 @@ return {
 		{
 			{"XR85_Company", 2},
 			{"Imperial_ULAV_Company", 3},
-			{"SPMAT_Company", 2},
+			{"MAS_2xB_Company", 1},
 			{"1H_Tank_Company", 2},
 			{"Victory_II_Carrier", 2},
 			{"Invincible_Cruiser", 1},

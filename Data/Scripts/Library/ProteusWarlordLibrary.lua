@@ -758,7 +758,7 @@ return {
 			LastYear = 4,
 			IntroText = "TEXT_CONQUEST_PROTEUS_KASHYYYK",
 			IntroHolo = "Darcc_Loop",
-			--CustomRewardTable = true,
+			CustomRewardTable = true,
 			CustomFieldBaseSpawn = true,
 		},
 		["LUMIYA"] = {
@@ -1028,7 +1028,9 @@ return {
 			},
 			FactionOverride = "Empire",
 			IntroText = "TEXT_CONQUEST_PROTEUS_KUAT",
-			IntroHolo = "Imperial_Naval_Officer_Loop"
+			IntroHolo = "Imperial_Naval_Officer_Loop",
+			CustomRewardTable = true,
+			CustomFieldBaseSpawn = true,
 		},
 		["KAARENTH_DISSENSION"] = {
 			FriendlyName = "Kaarenth Dissension",

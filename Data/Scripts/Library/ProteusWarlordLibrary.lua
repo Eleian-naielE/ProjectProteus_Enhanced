@@ -63,7 +63,7 @@ return {
 				"Raider_I_Corvette", "Active_Frigate", "Vigil",
 				"Gladiator_I", "Acclamator_I_Support", "Vindicator_Cruiser", "Immobilizer_418", "Victory_I_Star_Destroyer", "Victory_II_Star_Destroyer", "Procursator_Star_Destroyer",
 				"Interdictor_Star_Destroyer", "Aggressor_Star_Destroyer", "Imperial_I_Star_Destroyer_Carrier", "Imperial_II_Star_Destroyer", "Tector_Star_Destroyer",
-				"Allegiance_Battlecruiser", "Impellor_Carrier", "Compellor_Battlecruiser",
+				"Allegiance_Battlecruiser", "Legator_Star_Dreadnought", "Praetor_Carrier_Battlecruiser",
 				-- Ground
 				"Imperial_Navy_Trooper_Company", "Imperial_Fleet_Commando_Company", 
 				"TIE_Mauler_Company", "PX10_Company", "PX7_Company",
@@ -159,7 +159,7 @@ return {
 				"Guardian_Cruiser_Group", "Customs_Corvette", "Lancer_Frigate", "CEC_Light_Cruiser", "Victory_I_Frigate", "Galleon", 
 				"Rep_DHC", "DHC_Gunboat", "Imperial_I_Frigate", "Victory_II_Star_Destroyer", 
 				"Interdictor_Star_Destroyer", "Imperial_I_Star_Destroyer_Command", "Procurator_Battlecruiser", "Maelstrom_Battlecruiser", 
-				"Torpedo_Sphere", "Sorannan_Star_Destroyer", "Compellor_Battlecruiser", "Assertor_Star_Dreadnought",
+				"Torpedo_Sphere", "Sorannan_Star_Destroyer", "Praetor_I_Battlecruiser", "Assertor_Star_Dreadnought",
 				-- Ground	
 				"CSA_Destroyer_Droid_Company", "Imperial_Army_Trooper_Company", "Imperial_Dwarf_Spider_Droid_Company", 
 				"Repulsor_Scout_Company", "Scorpenek_Utility_Company", 
@@ -323,7 +323,7 @@ return {
 				"Beta_ETR_3_Group", "Customs_Corvette", "Surveyor_Frigate", "Vigil", "Carrack_Cruiser", "Star_Galleon", "Battle_Horn", "Imperial_DHC",
 				"Gladiator_I", "Acclamator_I_Carrier", "Acclamator_II", "Imperial_II_Frigate", "Immobilizer_418_Refit", "Victory_I_Fleet_Star_Destroyer",
 				"Imperial_I_Star_Destroyer", "Imperial_II_Star_Destroyer", 
-				"Impellor_Carrier", "Compellor_Battlecruiser", "Legator_Star_Dreadnought", "Executor_Star_Dreadnought", 
+				"Praetor_Carrier_Battlecruiser", "Allegiance_Battlecruiser", "Legator_Star_Dreadnought", "Executor_Star_Dreadnought", 
 				-- Ground
 				"Imperial_Army_Trooper_Company", "Imperial_Galactic_Marine_Company", "Dark_Trooper_Phase_II_Company", "Imperial_74Z_Bike_Company",
 				"AT_XT_Company", "Gian_Company", "AT_ST_Company",
@@ -576,7 +576,7 @@ return {
 				"VT49_Decimator_Group", "Imperial_CR90", "Tartan_Patrol_Cruiser", "Marauder_Picket_Cruiser", "Victory_I_Frigate", "Galleon_Minelayer", "Eidolon",
 				"Rep_DHC", "Gladiator_I", "Acclamator_I_Supercruiser", "Neutron_Star_Tender", "Victory_I_Star_Destroyer", "Victory_II_Carrier", 
 				"Imperial_I_Star_Destroyer", "Tector_Star_Destroyer", "Secutor_Star_Destroyer", "Acclamator_Destroyer", 
-				"Impellor_Carrier", "Praetor_I_Battlecruiser", "Bellator_Star_Dreadnought",
+				"Praetor_Carrier_Battlecruiser", "Praetor_I_Battlecruiser", "Bellator_Star_Dreadnought",
 				-- Ground 
 				"Imperial_Army_Trooper_Company", "Navy_Commando_Company", "ISB_Infiltrator_Company", "Imperial_Army_74Z_Bike_Company", 
 				"AT_ST_Company", "Chariot_LAV_Company", "Imperial_ULAV_Company", 
@@ -772,7 +772,7 @@ return {
 				"VT49_Decimator_Group", "Imperial_CR90", "Raider_II_Corvette", "Lancer_Frigate", "Imperial_Nebulon_B", "Strike_Cruiser", "Ton_Falk_Escort_Carrier",
 				"Immobilizer_418_Refit", "Gladiator_II", "Proteus_Cargo_Ship", "Imperial_II_Frigate", "Victory_I_Fleet_Star_Destroyer", "Victory_II_Star_Destroyer",
 				"Interdictor_Star_Destroyer", "Imperial_I_Star_Destroyer_Carrier", "Imperial_I_Star_Destroyer_Assault", "Imperial_II_Star_Destroyer",
-				"Allegiance_Battlecruiser", "Sorannan_Star_Destroyer", "Impellor_Carrier", "Shadow_Vengeance_Star_Dreadnought",
+				"Allegiance_Battlecruiser", "Sorannan_Star_Destroyer", "Praetor_Carrier_Battlecruiser", "Shadow_Vengeance_Star_Dreadnought",
 				-- Ground
 				"Royal_Guard_Stormtrooper_Company", "Imperial_Dark_Jedi_Company_Proteus", "Sith_Knight_Company", "Shadow_EVO_Trooper_Company", "Imperial_74Z_Bike_Company", "PDF_Force_Cultist_Company",
 				"Chariot_LAV_Company", "AT_ST_A_Company", "TIE_Mauler_Company", "INT4_Company", 
@@ -786,7 +786,7 @@ return {
 				"VT49_Decimator_Group", "Imperial_CR90", "Raider_II_Corvette", "Lancer_Frigate", "Imperial_Nebulon_B", "Strike_Cruiser", "Ton_Falk_Escort_Carrier",
 				"Immobilizer_418_Refit", "Gladiator_II", "Proteus_Cargo_Ship", "Imperial_II_Frigate", "Victory_I_Fleet_Star_Destroyer", "Victory_II_Star_Destroyer",
 				"Interdictor_Star_Destroyer", "Imperial_I_Star_Destroyer_Carrier", "Imperial_I_Star_Destroyer_Assault", "Imperial_II_Star_Destroyer",
-				"Allegiance_Battlecruiser", "Sorannan_Star_Destroyer", "Impellor_Carrier", "Shadow_Vengeance_Star_Dreadnought",
+				"Allegiance_Battlecruiser", "Sorannan_Star_Destroyer", "Praetor_Carrier_Battlecruiser", "Shadow_Vengeance_Star_Dreadnought",
 				-- Ground
 				"Royal_Guard_Stormtrooper_Company", "Darksider_Company", "Sith_Knight_Company", "Shadow_EVO_Trooper_Company", "Imperial_74Z_Bike_Company",
 				"Chariot_LAV_Company", "AT_ST_A_Company", "TIE_Mauler_Company", "INT4_Company", 
@@ -944,7 +944,7 @@ return {
 				"Gamma_ATR_6_Group", "Action_VI_Refit", "Tartan_Patrol_Cruiser", "Active_Frigate", "Victory_II_Frigate", 
 				"DHC_Gunboat", "Vindicator_Cruiser", "Immobilizer_Twin_Well", "Acclamator_II", "Imperial_I_Frigate", "Proteus_Cargo_Ship", "Victory_II_Star_Destroyer", 	"Procursator_Star_Destroyer", 
 				"Imperial_I_Star_Destroyer_Assault", "Imperial_I_Star_Destroyer_Command", "Imperial_II_Star_Destroyer", "Triumph_Star_Destroyer", 
-				"Allegiance_Battlecruiser", "Compellor_Battlecruiser", "Executor_Star_Dreadnought",
+				"Allegiance_Battlecruiser", "Sorannan_Star_Destroyer", "Executor_Star_Dreadnought",
 				-- Ground
 				"Compforce_Assault_Company", "Imperial_Galactic_Marine_Company", "IntSec_Operator_Company", "Imperial_74Z_Bike_Company", 
 				"Repulsor_Scout_Company", "RTT_Company", "Chariot_LAV_Company", 
@@ -1150,7 +1150,7 @@ return {
 		    	"Gozanti_Cruiser_Group", "Raider_I_Corvette", "Lancer_Frigate", "Galleon", "Victory_II_Frigate", "Strike_Cruiser", "Ton_Falk_Escort_Carrier",
 		    	"Immobilizer_418_Refit", "Gladiator_I", "Proteus_Cargo_Ship", "Vindicator_Carrier", "Victory_I_Fleet_Star_Destroyer", "Victory_II_Carrier",
 				"Aggressor_Star_Destroyer", "Interdictor_Star_Destroyer", "Imperial_I_Star_Destroyer", "Maelstrom_Battlecruiser", "Imperial_II_Star_Destroyer",
-				"Impellor_Carrier", "Sorannan_Star_Destroyer", "Assertor_Star_Dreadnought", "Executor_Star_Dreadnought",
+				"Praetor_Carrier_Battlecruiser", "Sorannan_Star_Destroyer", "Assertor_Star_Dreadnought", "Executor_Star_Dreadnought",
 				-- Ground
 				"Imperial_Army_Trooper_Company", "Incinerator_Stormtrooper_Company", "Royal_Guard_Stormtrooper_Company", "Darksider_Company", "Imperial_74Z_Bike_Company",
 				"PX10_Company", "AT_ST_Company", "PX7_Company",

@@ -288,7 +288,7 @@ return {
   PDF = {
 		{
 			{"Pursuer_Enforcement_Ship_Group", 4},
-			{"Crusader_Gunship", 5},			
+			{"Customs_Corvette", 5},			
 			{"Destroyer_Droid_II_Company", 4},
 			{"Light_Mercenary_Company", 5},
 			{"Imperial_CR90", 5},
@@ -307,7 +307,7 @@ return {
 			{"Canderous_Assault_Tank_Company", 2},
 			{"Keldabe_Influence", 1},
 			{"Aggressor_Star_Destroyer", 1},
-			{"Imperial_AT_AP_Walker_Company", 2},
+			{"Imperial_AT_TE_Walker_Company", 2},
 		}
 	}
 }

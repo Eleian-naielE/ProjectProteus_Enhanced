@@ -362,7 +362,7 @@ return {
 			{"Canderous_Assault_Tank_Company", 2},
 			{"Keldabe_Influence", 1},
 			{"Aggressor_Star_Destroyer", 1},
-			{"Imperial_AT_TE_Walker_Company", 2},
+			{"T4A_Company", 2},
 		}
 	}
 }

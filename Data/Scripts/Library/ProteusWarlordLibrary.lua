@@ -407,7 +407,7 @@ return {
 				"Imperial_Army_Trooper_Company", "Imperial_Scout_Trooper_Company", "New_Republic_Overracer_Speeder_Bike_Company",
 				"Imperial_Bantha_II_Skiff_Company", "Imperial_Gaba18_Company", "Hutt_AA_Skiff_Company", "AT_MP_Company",
 				"GAT_Company", "JX30_Company", "AV_7_Company", "TIE_Crawler_Company", "Imperial_TNT_Company",
-				"Imperial_AT_TE_Walker_Company", "Tracked_Shield_Disabler_Company", "Imperial_AT_ACT_Walker_Company",
+				"Imperial_AT_TE_Walker_Company", "Tracked_Shield_Disabler_Company", "C10_Siege_Tower_Company",
 			},
 			FactionOverride = "Empire",
 			FactionOverride2 = "Zsinj_Empire",

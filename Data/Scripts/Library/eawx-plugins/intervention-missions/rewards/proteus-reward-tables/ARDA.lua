@@ -22,7 +22,7 @@ return {
 			{"Imperial_Fleet_Commando_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
-	}
+	},
 	Era_2 = {
 		{
 			{"Imperial_Army_Guard_Company", 5},
@@ -46,7 +46,7 @@ return {
 			{"Imperial_Fleet_Commando_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
-	}
+	},
 	Era_3 = {
 		{
 			{"Imperial_Army_Guard_Company", 5},
@@ -70,7 +70,7 @@ return {
 			{"Imperial_Fleet_Commando_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
-	}
+	},
 	Era_4 = {
 		{
 			{"Imperial_Army_Guard_Company", 5},
@@ -94,7 +94,7 @@ return {
 			{"Imperial_Fleet_Commando_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
-	}
+	},
 	Era_5 = {
 		{
 			{"Imperial_Army_Guard_Company", 5},
@@ -118,7 +118,7 @@ return {
 			{"Imperial_Fleet_Commando_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
-	}
+	},
 	Era_6 = {
 		{
 			{"Imperial_Army_Guard_Company", 5},
@@ -142,7 +142,7 @@ return {
 			{"Imperial_Fleet_Commando_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
-	}
+	},
 	Era_7 = {
 		{
 			{"Imperial_Army_Guard_Company", 5},
@@ -166,7 +166,7 @@ return {
 			{"Imperial_Fleet_Commando_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
-	}
+	},
 	Era_8 = {
 		{
 			{"Imperial_Army_Guard_Company", 5},
@@ -190,7 +190,7 @@ return {
 			{"Imperial_Fleet_Commando_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
-	}
+	},
 	Era_9 = {
 		{
 			{"Imperial_Army_Guard_Company", 5},
@@ -214,7 +214,7 @@ return {
 			{"Imperial_Fleet_Commando_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
-	}
+	},
 	Era_10 = {
 		{
 			{"Imperial_Army_Guard_Company", 5},
@@ -238,7 +238,7 @@ return {
 			{"Imperial_Fleet_Commando_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
-	}
+	},
 	Era_11 = {
 		{
 			{"Imperial_Army_Guard_Company", 5},
@@ -262,7 +262,7 @@ return {
 			{"Imperial_Fleet_Commando_Company", 5},  
 			{"Imperial_II_Star_Destroyer", 1},
 		}
-	}
+	},
 	PDF = {
 		{
 			{"Pursuer_Enforcement_Ship_Group", 4},

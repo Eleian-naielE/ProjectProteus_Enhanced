@@ -49,7 +49,7 @@ return {
 			},
 			IntroText = "TEXT_CONQUEST_LAMBDASECTOR_LAMBDA_INTRO_ONE",
 			IntroHolo = "Par_Lankin_Loop",
-			--CustomRewardTable = true,
+			CustomRewardTable = true,
 			CustomFieldBaseSpawn = true,
 		},
 		["ZERO_COMMAND"] = {
